@@ -1,0 +1,33 @@
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "NodeJS Project with Express Mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekopurnama25/node-express-mysql.git"
+  },
+  "keywords": [
+    "node",
+    "sequelize",
+    "mysql",
+    "body-parser",
+    "cors"
+  ],
+  "author": "ekopurnama25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekopurnama25/node-express-mysql/issues"
+  },
+  "homepage": "https://github.com/ekopurnama25/node-express-mysql#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.1.1"
+  }
+}
