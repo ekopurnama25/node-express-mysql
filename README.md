@@ -1,7 +1,30 @@
-# node-express-mysql
+node-express-mysql
 Node Js with Express 
-===========================================================================
-Update semua Script Masih Eror diportnya sering pindah pindah pas 
-di npm start
-tgl = 3 juli 2020
-===========================================================================
+========================================================================
+========================================================================
+User Login
+post : http://localhost:3000/api/login/
+========================================================================
+Request Barang
+post : http://localhost:3000/api/barang/
+get : http://localhost:3000/api/barang/
+getid : http://localhost:3000/api/barang/(idnya)
+delete : http://localhost:3000/api/barang/
+update : http://localhost:3000/api/barang/
+========================================================================
+Request User 
+post : http://localhost:3000/api/users/
+get : http://localhost:3000/api/users/
+getid : http://localhost:3000/api/users/(idnya)
+delete : http://localhost:3000/api/users/
+update : http://localhost:3000/api/user/
+========================================================================
+Request Transaksi
+post : http://localhost:3000/api/transaksi/
+get : http://localhost:3000/api/transaksi/
+getid : http://localhost:3000/api/transaksi/(idnya)
+delete : http://localhost:3000/api/transaksi/
+update : http://localhost:3000/api/transaksi/
+========================================================================
+
+
